@@ -23,3 +23,5 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] Learn Swift via an Intro to Swift
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
+- [ ] Learn [RNX](http://reactivex.io/learnrx/)
+- [ ] Read [I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next](https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558)
