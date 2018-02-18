@@ -12,7 +12,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ## Things I'll Do in 2018:
 
-- [ ] Build something cool with React JS
+- [ ] [Build something cool with React JS](https://github.com/matt-jarrett/react-js-todo-app/blob/master/README.md)
 - [ ] Learn Redux
 - [ ] Build something cool with Vue JS
 - [ ] Build something cool with Angular JS
