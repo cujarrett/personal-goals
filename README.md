@@ -15,7 +15,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [X] [Build something cool with React JS](https://github.com/matt-jarrett/react-js-todo-app/blob/master/README.md)
 - [ ] Learn Redux
 - [ ] Build something cool with Vue JS
-- [ ] Build something cool with Angular JS
+- [x] [Build something cool with Angular JS](https://github.com/matt-jarrett/angular-tour-of-heroes)
 - [ ] Build something cool with Ember JS
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [ ] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
