@@ -18,13 +18,6 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Build something cool with Angular JS](https://github.com/matt-jarrett/angular-tour-of-heroes)
 - [ ] Build something cool with Ember JS
 - [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
-- [ ] Read [I Peeked Into My Node_Modules Directory And You Won’t Believe What Happened Next](https://medium.com/friendship-dot-js/i-peeked-into-my-node-modules-directory-and-you-wont-believe-what-happened-next-b89f63d21558)
-- [ ] Read [Master the JavaScript Interview: What is Function Composition?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
-- [ ] Read [10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44)
+- [x] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
 - [ ] Contribute on an open source project with a pull request
 - [ ] Build a Twitter bot
-- [ ] Learn Swift via an Intro to Swift
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] Learn [RNX](http://reactivex.io/learnrx/)
-- [ ] Learn & Try [Ava](https://github.com/avajs/ava) for async testing
