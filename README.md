@@ -19,5 +19,5 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [X] Learn Redux for state management in React JS
 - [x] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [x] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
-- [ ] Contribute on an open source project with a pull request
+- [x] [Contribute on an open source project with a pull request](https://github.com/siimon/prom-client/pull/230)
 - [ ] Build a Twitter bot
