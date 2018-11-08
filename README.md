@@ -17,7 +17,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Build something cool with Angular JS](https://github.com/matt-jarrett/angular-tour-of-heroes)
 - [X] [Build something cool with Ember JS](https://github.com/matt-jarrett/ember-super-rentals)
 - [X] Learn Redux for state management in React JS
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [x] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [x] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
 - [ ] Contribute on an open source project with a pull request
 - [ ] Build a Twitter bot
