@@ -20,4 +20,4 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 - [x] Read [TC39 ES2018 Proposals](https://github.com/tc39/proposals)
 - [x] [Contribute on an open source project with a pull request](https://github.com/siimon/prom-client/pull/230)
-- [x] Build a Twitter bot
+- [x] [Build a Twitter bot](https://github.com/cujarrett/banshee-44-mods-bot)
