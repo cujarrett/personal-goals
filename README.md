@@ -7,9 +7,10 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Overarching Goals for 2019:
 1. Get out of my comfort zone, learn more DevOps enablement and Web Architecture pieces beyond the web app
-2. Continue to teach
-3. Form my own opinions rather than recite what someone else said/ wrote
-3. Stay experimental
+2. Listen more, keep my mouth closed more
+3. Be more humble
+4. Continue to teach
+5. Form my own opinions rather than recite what someone else said/ wrote
 
 ### Things I'll Do in 2019:
 
