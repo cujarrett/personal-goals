@@ -3,14 +3,41 @@
 Personal goals made open source for accessibility across computers I use, transparency,
 accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
-## Overarching Goals for 2018:
+## 2019
+
+### Overarching Goals for 2019:
+1. Get out of my comfort zone, learn more DevOps enablement and Web Architecture pieces beyond the web app
+2. Continue to teach
+3. Form my own opinions rather than recite what someone else said/ wrote
+3. Stay experimental
+
+### Things I'll Do in 2019:
+
+- [ ] [Complete kubernetes Tutorial](https://github.com/cujarrett/personal-goals/issues/4)
+- [ ] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/personal-goals/issues/19)
+- [ ] [Learn about NGIX](https://github.com/cujarrett/personal-goals/issues/16)
+- [ ] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
+- [ ] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
+- [ ] [Learn about JWT](https://github.com/cujarrett/personal-goals/issues/9)
+- [ ] [Learn about Passport for Node JS](https://github.com/cujarrett/personal-goals/issues/8)
+- [ ] [Learn more about CDN's](https://github.com/cujarrett/personal-goals/issues/7)
+- [ ] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
+- [ ] [Build an Electron app](https://github.com/cujarrett/personal-goals/issues/3)
+- [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
+- [ ] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
+- [ ] [Build an iOS app with React Native](https://github.com/cujarrett/personal-goals/issues/1)
+- [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
+
+## 2018
+
+### Overarching Goals for 2018:
 1. JavaScript - dive deeper
 2. Gain first hand knowledge and expereince in several popular JavaScript single page application frameworks
 3. Continue to teach
 4. Learn another language
 5. Stay experimental
 
-## Things I'll Do in 2018:
+### Things I'll Did in 2018:
 
 - [X] [Build something cool with React JS](https://www.glimpse.ninja/)
 - [X] [Build something cool with Vue JS](https://github.com/matt-jarrett/vue-js-news-app)
