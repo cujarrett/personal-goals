@@ -16,7 +16,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 - [ ] [Complete kubernetes Tutorial](https://github.com/cujarrett/personal-goals/issues/4)
 - [ ] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/personal-goals/issues/19)
-- [ ] [Learn about NGIX](https://github.com/cujarrett/personal-goals/issues/16)
+- [ ] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
 - [ ] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
 - [ ] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
 - [ ] [Learn about JWT](https://github.com/cujarrett/personal-goals/issues/9)
