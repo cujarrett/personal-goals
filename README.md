@@ -23,7 +23,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn about Passport for Node JS](https://github.com/cujarrett/personal-goals/issues/8)
 - [ ] [Learn more about CDN's](https://github.com/cujarrett/personal-goals/issues/7)
 - [ ] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
-- [ ] [Build an Electron app](https://github.com/cujarrett/personal-goals/issues/3)
+- [x] [Build an Electron app](https://github.com/cujarrett/learning-electron)
 - [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
 - [ ] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
 - [ ] [Build an iOS app with React Native](https://github.com/cujarrett/personal-goals/issues/1)
