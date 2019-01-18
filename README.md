@@ -29,6 +29,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Build an iOS app with React Native](https://github.com/cujarrett/personal-goals/issues/1)
 - [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
 - [ ] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
+- [ ] [Try out Kubernetes](https://github.com/cujarrett/personal-goals/issues/23)
 
 ## 2018
 
