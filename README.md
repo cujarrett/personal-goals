@@ -14,7 +14,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Things I'll Do in 2019:
 
-- [ ] [Complete kubernetes Tutorial](https://github.com/cujarrett/personal-goals/issues/4)
+- [X] [Complete kubernetes Tutorial & Read Docs](https://github.com/cujarrett/personal-goals/issues/4)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
 - [ ] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
 - [ ] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
