@@ -14,7 +14,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Things I'll Do in 2019:
 
-- [X] [Complete kubernetes Tutorial & Read Docs](https://github.com/cujarrett/personal-goals/issues/4)
+- [x] [Complete kubernetes Tutorial & Read Docs](https://github.com/cujarrett/personal-goals/issues/4)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
 - [ ] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
 - [ ] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
@@ -25,7 +25,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
 - [x] [Build an Electron app](https://github.com/cujarrett/learning-electron)
 - [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
-- [ ] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
+- [x] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
 - [ ] [Build an iOS app with React Native](https://github.com/cujarrett/personal-goals/issues/1)
 - [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
 - [ ] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
