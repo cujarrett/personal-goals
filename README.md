@@ -30,6 +30,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
 - [x] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
 - [x] [Learn React Hooks](https://github.com/cujarrett/learning-react-hooks)
+- [ ] [Learn Python](https://github.com/cujarrett/personal-goals/issues/26)
 
 ## 2018
 
