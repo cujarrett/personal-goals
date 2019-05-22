@@ -29,7 +29,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
 - [ ] [Build an iOS app with React Native](https://github.com/cujarrett/personal-goals/issues/1)
 - [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
-- [ ] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
+- [x] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
 - [x] [Learn React Hooks](https://github.com/cujarrett/learning-react-hooks)
 
 ## 2018
