@@ -22,7 +22,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
 - [x] [Learn about JWT](https://github.com/cujarrett/personal-goals/issues/9)
 - [ ] [Learn about Passport for Node JS](https://github.com/cujarrett/personal-goals/issues/8)
-- [ ] [Learn more about CDN's](https://github.com/cujarrett/personal-goals/issues/7)
+- [x] [Learn more about CDN's](https://github.com/cujarrett/personal-goals/issues/7)
 - [ ] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
 - [x] [Build an Electron app](https://github.com/cujarrett/learning-electron)
 - [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
