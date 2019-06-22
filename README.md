@@ -18,7 +18,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Cloud Native Certified Kubernetes Application Developer (CKAD) Program](https://github.com/cujarrett/certified-kubernetes-application-developer-course)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
 - [ ] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
-- [ ] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
+- [x] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
 - [ ] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
 - [ ] [Learn about JWT](https://github.com/cujarrett/personal-goals/issues/9)
 - [ ] [Learn about Passport for Node JS](https://github.com/cujarrett/personal-goals/issues/8)
