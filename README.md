@@ -43,7 +43,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 4. Learn another language
 5. Stay experimental
 
-### Things I'll Did in 2018:
+### Things ~~I'll Do~~ I Did in 2018:
 
 - [X] [Build something cool with React JS](https://www.glimpse.ninja/)
 - [X] [Build something cool with Vue JS](https://github.com/matt-jarrett/vue-js-news-app)
