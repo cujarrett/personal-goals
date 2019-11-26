@@ -3,16 +3,25 @@
 Personal goals made open source for accessibility across computers I use, transparency,
 accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
+## 2020 (WIP)
+
+### Overarching Goals for 2020 (WIP)
+1. Get out of my comfort zone, learn more DevOps enablement and Web Architecture pieces beyond the web app
+
+### Things I'll Do in 2020 (WIP)
+
+- [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/personal-goals/issues/37)
+
 ## 2019
 
-### Overarching Goals for 2019:
+### Overarching Goals for 2019
 1. Get out of my comfort zone, learn more DevOps enablement and Web Architecture pieces beyond the web app
 2. Listen more, keep my mouth closed more
 3. Be more humble
 4. Continue to teach
 5. Form my own opinions rather than recite what someone else said/ wrote
 
-### Things I'll Do in 2019:
+### Things I'll Do in 2019
 
 - [x] [Complete kubernetes Tutorial & Read Docs](https://github.com/cujarrett/personal-goals/issues/4)
 - [x] [Cloud Native Certified Kubernetes Application Developer (CKAD) Program](https://github.com/cujarrett/certified-kubernetes-application-developer-course)
@@ -36,14 +45,14 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ## 2018
 
-### Overarching Goals for 2018:
+### Overarching Goals for 2018
 1. JavaScript - dive deeper
 2. Gain first hand knowledge and expereince in several popular JavaScript single page application frameworks
 3. Continue to teach
 4. Learn another language
 5. Stay experimental
 
-### Things ~~I'll Do~~ I Did in 2018:
+### Things ~~I'll Do~~ I Did in 2018
 
 - [X] [Build something cool with React JS](https://www.glimpse.ninja/)
 - [X] [Build something cool with Vue JS](https://github.com/matt-jarrett/vue-js-news-app)
