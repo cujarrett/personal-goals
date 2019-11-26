@@ -10,7 +10,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Things I'll Do in 2020 (WIP)
 
-- [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/personal-goals/issues/37)
+- [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
 
 ## 2019
 
