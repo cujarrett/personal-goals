@@ -6,7 +6,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 ## 2020 (WIP)
 
 ### Overarching Goals for 2020 (WIP)
-1. Get out of my comfort zone, learn more DevOps enablement and Web Architecture pieces beyond the web app
+1. Become a public cloud ninja
 
 ### Things I'll Do in 2020 (WIP)
 
