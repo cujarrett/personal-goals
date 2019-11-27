@@ -36,7 +36,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Build an Electron app](https://github.com/cujarrett/learning-electron)
 - [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
 - [x] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
-- [ ] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
+- [x] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
 - [x] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
 - [x] [Learn React Hooks](https://github.com/cujarrett/learning-react-hooks)
 - [x] [Learn Python](https://github.com/cujarrett/learning-python)
