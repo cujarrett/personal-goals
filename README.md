@@ -23,8 +23,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Things I'll Do in 2019
 
-- [x] [Complete kubernetes Tutorial & Read Docs](https://github.com/cujarrett/personal-goals/issues/4)
-- [x] [Cloud Native Certified Kubernetes Application Developer (CKAD) Program](https://github.com/cujarrett/learning-kubernetes/blob/master/certified-kubernetes-application-developer/index.md)
+- [x] [Learn Kubernetes & Get my Cloud Native Certified Kubernetes Application Developer (CKAD)](https://github.com/cujarrett/learning-kubernetes/blob/master/certified-kubernetes-application-developer/index.md)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
 - [x] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
 - [x] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
