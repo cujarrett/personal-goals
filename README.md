@@ -11,6 +11,10 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 ### Things I'll Do in 2020 (WIP)
 
 - [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
+- [ ] [Learn Go](https://github.com/cujarrett/personal-goals/issues/38)
+- [ ] [Learn GraphQL](https://github.com/cujarrett/personal-goals/issues/39)
+- [ ] [Learn about gRPC](https://github.com/cujarrett/personal-goals/issues/35)
+- [ ] [Dive into and Learn Terraform](https://github.com/cujarrett/personal-goals/issues/34)
 
 ## 2019
 
