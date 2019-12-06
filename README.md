@@ -19,7 +19,6 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 #### App Features
 - [ ] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
-es
 - [ ] [Migrate my Glimpse React app to AWS](https://github.com/cujarrett/glimpse/issues/64)
 
 ## 2019
