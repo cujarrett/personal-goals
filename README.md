@@ -10,11 +10,17 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Things I'll Do in 2020 (WIP)
 
+#### Learning
 - [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
 - [ ] [Learn Go](https://github.com/cujarrett/personal-goals/issues/38)
 - [ ] [Learn GraphQL](https://github.com/cujarrett/personal-goals/issues/39)
 - [ ] [Learn about gRPC](https://github.com/cujarrett/personal-goals/issues/35)
 - [ ] [Dive into and Learn Terraform](https://github.com/cujarrett/personal-goals/issues/34)
+
+#### App Features
+- [ ] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
+es
+- [ ] [Migrate my Glimpse React app to AWS](https://github.com/cujarrett/glimpse/issues/64)
 
 ## 2019
 
