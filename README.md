@@ -21,19 +21,17 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 4. Continue to teach
 5. Form my own opinions rather than recite what someone else said/ wrote
 
-### Things I'll Do in 2019
+### Things ~~I'll Do~~ I Did in 2019
 
 - [x] [Learn Kubernetes & Get my Cloud Native Certified Kubernetes Application Developer (CKAD)](https://github.com/cujarrett/learning-kubernetes/blob/master/certified-kubernetes-application-developer/index.md)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
 - [x] [Learn about NGiNX](https://github.com/cujarrett/personal-goals/issues/16)
 - [x] [Learn about RabbitMQ](https://github.com/cujarrett/personal-goals/issues/12)
-- [ ] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
+- [x] [Learn about Istio](https://github.com/cujarrett/personal-goals/issues/11)
 - [x] [Learn about JWT](https://github.com/cujarrett/personal-goals/issues/9)
-- [ ] [Learn about Passport for Node JS](https://github.com/cujarrett/personal-goals/issues/8)
 - [x] [Learn more about CDN's](https://github.com/cujarrett/personal-goals/issues/7)
-- [ ] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
+- [x] [Learn about Hystrix](https://github.com/cujarrett/personal-goals/issues/6)
 - [x] [Build an Electron app](https://github.com/cujarrett/learning-electron)
-- [ ] [Learn Flexbox](https://github.com/cujarrett/personal-goals/issues/5)
 - [x] [Build something cool with Reveal JS](https://github.com/cujarrett/personal-goals/issues/2)
 - [x] [Learn the PRPL Pattern](https://github.com/cujarrett/personal-goals/issues/14)
 - [x] [Dive further into Bash](https://github.com/cujarrett/personal-goals/issues/21)
