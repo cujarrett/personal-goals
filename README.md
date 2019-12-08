@@ -7,6 +7,8 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 
 ### Overarching Goals for 2020 (WIP)
 1. Become a public cloud ninja
+2. Learn Go as it's used in so many things now a days
+3. Inspired by [NikkitaFTW](https://twitter.com/NikkitaFTW) to [build more dumb stuff](https://egghead.io/podcasts/making-dumb-stuff-that-makes-strangers-on-the-internet-smile-with-sara-vieira) on the Internet to recharge my soul and learn while I'm doing it
 
 ### Things I'll Do in 2020 (WIP)
 
