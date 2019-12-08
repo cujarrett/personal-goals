@@ -32,7 +32,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 4. Continue to teach
 5. Form my own opinions rather than recite what someone else said/ wrote
 
-### Things ~~I'll Do~~ I Did in 2019
+### Things ~~I'll Do~~ I Did in 2019 :tada:
 
 - [x] [Learn Kubernetes & Get my Cloud Native Certified Kubernetes Application Developer (CKAD)](https://github.com/cujarrett/learning-kubernetes/blob/master/certified-kubernetes-application-developer/index.md)
 - [x] [Learn & Implement GitHub Actions Pipelines](https://github.com/cujarrett/markdown-tables)
@@ -60,7 +60,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 4. Learn another language
 5. Stay experimental
 
-### Things ~~I'll Do~~ I Did in 2018
+### Things ~~I'll Do~~ I Did in 2018 :tada:
 
 - [X] [Build something cool with React JS](https://www.glimpse.ninja/)
 - [X] [Build something cool with Vue JS](https://github.com/matt-jarrett/vue-js-news-app)
