@@ -17,6 +17,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn Go](https://github.com/cujarrett/personal-goals/issues/38)
 - [ ] [Learn GraphQL](https://github.com/cujarrett/personal-goals/issues/39)
 - [ ] [Learn about gRPC](https://github.com/cujarrett/personal-goals/issues/35)
+- [ ] - [Learn more about protocols](https://github.com/cujarrett/personal-goals/issues/42)
 - [ ] [Dive into and Learn Terraform](https://github.com/cujarrett/personal-goals/issues/34)
 
 #### App Features
