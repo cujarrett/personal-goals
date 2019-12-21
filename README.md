@@ -20,6 +20,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn more about protocols](https://github.com/cujarrett/personal-goals/issues/42)
 - [ ] [Dive into and Learn Terraform](https://github.com/cujarrett/personal-goals/issues/34)
 - [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
+- [ ] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 
 #### App Features
 - [ ] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
