@@ -3,14 +3,14 @@
 Personal goals made open source for accessibility across computers I use, transparency,
 accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
 
-## 2020 (WIP)
+## 2020
 
-### Overarching Goals for 2020 (WIP)
+### Overarching Goals for 2020
 1. Become a public cloud ninja
 2. Learn Go as it's used in so many things now a days
 3. Inspired by [NikkitaFTW](https://twitter.com/NikkitaFTW) to [build more dumb stuff](https://egghead.io/podcasts/making-dumb-stuff-that-makes-strangers-on-the-internet-smile-with-sara-vieira) on the Internet to recharge my soul and learn while I'm doing it
 
-### Things I'll Do in 2020 (WIP)
+### Things I'll Do in 2020
 
 #### Learning
 - [ ] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
@@ -22,9 +22,10 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
 - [ ] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 - [ ] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
+- [ ] Publish at least two articles to https://dev.to/
 
 #### App Features
-- [ ] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
+- [x] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
 - [ ] [Migrate my Glimpse React app to AWS](https://github.com/cujarrett/glimpse/issues/64)
 
 ## 2019
