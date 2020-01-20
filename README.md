@@ -18,7 +18,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn GraphQL](https://github.com/cujarrett/personal-goals/issues/39)
 - [ ] [Learn about gRPC](https://github.com/cujarrett/personal-goals/issues/35)
 - [ ] [Learn more about protocols](https://github.com/cujarrett/personal-goals/issues/42)
-- [ ] [Dive into and Learn Terraform](https://github.com/cujarrett/personal-goals/issues/34)
+- [x] [Learn Terraform](https://github.com/cujarrett/learning-terraform)
 - [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
 - [ ] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 - [ ] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
