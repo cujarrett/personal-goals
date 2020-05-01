@@ -23,6 +23,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 - [ ] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
 - [ ] Publish at least two articles to https://dev.to/
+- [x] Learn more about React testing with [testing-library](https://testing-library.com/) ([Pull Request](https://github.com/cujarrett/glimpse/pull/94))
 
 #### App Features
 - [x] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
