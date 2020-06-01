@@ -16,7 +16,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
 - [x] [Learn Go](https://github.com/cujarrett/learning-go)
 - [ ] [Learn GraphQL](https://github.com/cujarrett/personal-goals/issues/39)
-- [ ] [Learn about gRPC](https://github.com/cujarrett/personal-goals/issues/35)
+- [x] [Learn about gRPC](https://github.com/cujarrett/learning-grpc)
 - [ ] [Learn more about protocols](https://github.com/cujarrett/personal-goals/issues/42)
 - [x] [Learn Terraform](https://github.com/cujarrett/learning-terraform)
 - [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
