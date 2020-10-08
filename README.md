@@ -22,7 +22,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
 - [ ] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 - [ ] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
-- [ ] Publish at least two articles to https://dev.to/ ([First :tada:](https://dev.to/cujarrett/how-i-built-a-resume-api-w-go-terraform-and-aws-371o))
+- [x] Publish at least two articles to https://dev.to/ ([First :tada:](https://dev.to/cujarrett/how-i-built-a-resume-api-w-go-terraform-and-aws-371o)) ([second](https://dev.to/cujarrett/build-an-express-like-app-on-aws-lambda-12g6) :tada:)
 - [x] Learn more about React testing with [testing-library](https://testing-library.com/) ([Pull Request](https://github.com/cujarrett/glimpse/pull/94))
 - [ ] [Spend more time learning Docker](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
