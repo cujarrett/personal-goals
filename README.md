@@ -24,7 +24,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [ ] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
 - [x] Publish at least two articles to https://dev.to/ ([First :tada:](https://dev.to/cujarrett/how-i-built-a-resume-api-w-go-terraform-and-aws-371o)) ([second](https://dev.to/cujarrett/build-an-express-like-app-on-aws-lambda-12g6) :tada:)
 - [x] Learn more about React testing with [testing-library](https://testing-library.com/) ([Pull Request](https://github.com/cujarrett/glimpse/pull/94))
-- [ ] [Spend more time learning Docker](https://www.youtube.com/watch?v=YFl2mCHdv24)
+- [x] [Spend more time learning Docker](https://www.youtube.com/watch?v=YFl2mCHdv24)
 
 #### App Features
 - [x] [Migrate my Bashee-44 Destiny Twiter Bot to to AWS Lambda (serverless)](https://github.com/cujarrett/banshee-44-mods-bot/issues/26)
