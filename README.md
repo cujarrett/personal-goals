@@ -10,7 +10,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 2. Learn Go as it's used in so many things now a days
 3. Inspired by [NikkitaFTW](https://twitter.com/NikkitaFTW) to [build more dumb stuff](https://egghead.io/podcasts/making-dumb-stuff-that-makes-strangers-on-the-internet-smile-with-sara-vieira) on the Internet to recharge my soul and learn while I'm doing it
 
-### Things I'll Do in 2020
+### Things ~~I'll Do~~ I Did in 2020 :tada:
 
 #### Learning
 - [x] [Complete AWS Certified Solutions Arch Associate](https://github.com/cujarrett/learning-aws/blob/master/aws-certified-solutions-architect%E2%80%93associate/index.md)
@@ -19,7 +19,7 @@ accountability, and versioning. Learn more about it [here](http://una.im/persona
 - [x] [Learn about gRPC](https://github.com/cujarrett/learning-grpc)
 - [x] [Learn more about protocols](https://github.com/cujarrett/personal-goals/issues/42)
 - [x] [Learn Terraform](https://github.com/cujarrett/learning-terraform)
-- [ ] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
+- [x] [Learn Packer](https://github.com/cujarrett/personal-goals/issues/43)
 - [x] [Learn more about access permissions in Linux environments](https://github.com/cujarrett/personal-goals/issues/44)
 - [x] [Learn Svelte](https://github.com/cujarrett/personal-goals/issues/45)
 - [x] Publish at least two articles to https://dev.to/ ([First :tada:](https://dev.to/cujarrett/how-i-built-a-resume-api-w-go-terraform-and-aws-371o)) ([second](https://dev.to/cujarrett/build-an-express-like-app-on-aws-lambda-12g6) :tada:)
